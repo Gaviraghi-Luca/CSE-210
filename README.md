@@ -1,5 +1,5 @@
-# Cycle
-Cycle is a game where the players try to cut each other off using cycles that leave a trail behind them.
+# Final
+Final is a game where the player pushes outside the display area other objects.
 
 ## Getting Started
 ---
@@ -11,7 +11,7 @@ python3 -m pip install raylib
 After you've installed the required libraries, open a terminal and browse to the project's root folder. Start the program by running the following command.
 
 ```
-python3 cycle
+python3 final
 ```
 You can also run the program from an IDE like Visual Studio Code. Start your IDE and open the 
 project folder. Select the main module inside the hunter folder and click the "run" icon.
@@ -22,7 +22,7 @@ The project files and folders are organized as follows:
 
 ```
 root                    (project root folder)
-+-- cycle               (source code for game)
++-- final              (source code for game)
   +-- game              (specific game classes)
   +-- __main__.py       (entry point for program)
 +-- README.md           (general info)
